@@ -1,0 +1,20 @@
+Python
+Java
+C++
+SQL
+Machine Learning
+Deep Learning
+Data Analysis
+Power BI
+Tableau
+Excel
+HTML
+CSS
+JavaScript
+React
+Node.js
+TensorFlow
+PyTorch
+AWS
+Docker
+Kubernetes
