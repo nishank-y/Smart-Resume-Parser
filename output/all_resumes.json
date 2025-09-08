@@ -1,0 +1,123 @@
+[
+    {
+        "Name": "Arjun Karun",
+        "Email": "arjunkaran@gmail.com",
+        "Phone": "1234567892",
+        "Education": [
+            "Bachelor Of Technology, CSE \u2013 Data Science",
+            "St. Mary\u2019s Junior College",
+            "Greenfield High School"
+        ],
+        "Skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Data Analysis",
+            "Power BI",
+            "Tableau",
+            "HTML",
+            "CSS"
+        ],
+        "Experience": [
+            "in Python, SQL, and Tableau. Skilled in data analysis, visualization, and web development technologies such as HTML and CSS. Passionate about AI and machine learning"
+        ],
+        "Filename": "Resume 1.docx"
+    },
+    {
+        "Name": "Meera Suresh",
+        "Email": "meerasuresh@gmail.com",
+        "Phone": "1234567894",
+        "Education": [
+            "Bachelor Of Technology, IT \u2013 Web Development",
+            "Vijaya Junior College",
+            "St. Anthony High School",
+            "Created posters for university events using Photoshop and Illustrator."
+        ],
+        "Skills": [
+            "Java",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "Experience": [
+            "d in Photoshop and Illustrator for UI/UX"
+        ],
+        "Filename": "Resume 2.docx"
+    },
+    {
+        "Name": "Rohit Varma",
+        "Email": "rohitvarma@gmail.com",
+        "Phone": "1234567898",
+        "Education": [
+            "Jawaharlal Nehru Technological University",
+            "Bachelor Of Technology, CSE \u2013 AI/ML",
+            "St. Mary\u2019s Junior College",
+            "Greenfield High School"
+        ],
+        "Skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Data Analysis",
+            "Power BI",
+            "Tableau",
+            "HTML",
+            "CSS"
+        ],
+        "Experience": [
+            "d in data analysis, visualization, and basic 3D modeling using Autodesk Maya. Passionate about using data-driven insights for innovative solutions."
+        ],
+        "Filename": "Resume 3.pdf"
+    },
+    {
+        "Name": "Ananya Ramesh",
+        "Email": "ananya.ramesh@gmail.com",
+        "Phone": "1234567896",
+        "Education": [
+            "Bachelor Of Technology, CSE \u2013 Data Science",
+            "St. Mary\u2019s Junior College",
+            "Greenfield High School"
+        ],
+        "Skills": [
+            "Python",
+            "Java",
+            "SQL",
+            "Data Analysis",
+            "Power BI",
+            "Tableau",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "Experience": [
+            "Photo Manipulation"
+        ],
+        "Filename": "Resume 4.pdf"
+    },
+    {
+        "Name": "Siddharth Menon",
+        "Email": "siddharth.menon@gmail.com",
+        "Phone": "1234567894",
+        "Education": [
+            "VIT University",
+            "Bachelor Of Technology, CSE \u2013 AI/ML",
+            "St. Joseph Junior College",
+            "Oakridge High School"
+        ],
+        "Skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Power BI",
+            "Tableau",
+            "HTML",
+            "CSS",
+            "TensorFlow"
+        ],
+        "Experience": [
+            "d in creating dashboards and data visualizations. Passionate about combining analytical and creative"
+        ],
+        "Filename": "Resume 5.pdf"
+    }
+]
